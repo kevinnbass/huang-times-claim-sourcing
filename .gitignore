@@ -1,0 +1,4 @@
+# article texts are never committed: supply your own copies to run the checks
+research/primary/*/text.txt
+__pycache__/
+*.pyc

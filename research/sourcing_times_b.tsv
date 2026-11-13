@@ -1,0 +1,347 @@
+key	page	n	source_type	topic	source	quote	anonymity_reason
+man-e1161e38dc19#1	man-e1161e38dc19	1	institution	intelligence_and_relationship	U.S. intelligence	U.S. intelligence determined was a Chinese spy.	
+man-e1161e38dc19#2	man-e1161e38dc19	2	institution	intelligence_and_relationship	U.S. intelligence	U.S. intelligence determined is a Chinese spy	
+man-e1161e38dc19#3	man-e1161e38dc19	3	unnamed	intelligence_and_relationship	five people who worked at the company	according to five people who worked at the company.	
+man-e1161e38dc19#4	man-e1161e38dc19	4	unnamed	intelligence_and_relationship	the people	said the people, who spoke under the condition of anonymity to describe sensitive information.	who spoke under the condition of anonymity to describe sensitive information
+man-e1161e38dc19#5	man-e1161e38dc19	5	document	company	Nvidia’s code of conduct	Under Nvidia’s code of conduct, employees are told to “avoid situations where our actions create conflict” including “personal relationships,”	
+man-e1161e38dc19#6	man-e1161e38dc19	6	institution	company	the company	the company states that it “promptly investigates reports of misconduct.”	
+man-e1161e38dc19#7	man-e1161e38dc19	7	unnamed	intelligence_and_relationship	two of the people who worked at the company	according to two of the people who worked at the company.	
+man-e1161e38dc19#8	man-e1161e38dc19	8	own_observation	intelligence_and_relationship	The Times	The Times reported that a Chinese executive he had become close to had been identified by U.S. officials as a Chinese intelligence asset.	
+man-e1161e38dc19#9	man-e1161e38dc19	9	unnamed	intelligence_and_relationship	U.S. officials	had been identified by U.S. officials as a Chinese intelligence asset.	
+man-e1161e38dc19#10	man-e1161e38dc19	10	named_person	intelligence_and_relationship	Mr. Huang	This month, after Mr. Huang acknowledged the affair	
+man-e1161e38dc19#11	man-e1161e38dc19	11	institution	intelligence_and_relationship	China	China has denied the espionage claims.	
+man-e1161e38dc19#12	man-e1161e38dc19	12	named_person	intelligence_and_relationship	Ms. Huang	Ms. Huang, the Chinese executive accused of spying for Beijing, has not responded to requests for comment.	
+man-e1161e38dc19#13	man-e1161e38dc19	13	named_person	intelligence_and_relationship	Mr. Huang	Mr. Huang said, “I don’t think you should be talking to me directly.”	
+man-e1161e38dc19#14	man-e1161e38dc19	14	institution	intelligence_and_relationship	Nvidia	Nvidia declined to provide a statement.	
+man-e1161e38dc19#15	man-e1161e38dc19	15	named_person	intelligence_and_relationship	Ms. Powell	Ms. Powell did not immediately respond to a request for comment.	
+man-e1161e38dc19#16	man-e1161e38dc19	16	unnamed	intelligence_and_relationship	the five people	the five people said.	
+man-e1161e38dc19#17	man-e1161e38dc19	17	document	background	the company’s website	according to the company’s website.	
+man-e1161e38dc19#18	man-e1161e38dc19	18	document	background	her LinkedIn	according to her LinkedIn.	
+man-e1161e38dc19#19	man-e1161e38dc19	19	named_person	business	Ms. Powell	Ms. Powell appeared at GTC, Nvidia’s annual developer conference in San Jose, where she spoke about using A.I. to aid in breakthroughs in health care and biology.	
+man-e1161e38dc19#20	man-e1161e38dc19	20	unnamed	intelligence_and_relationship	three people briefed on the incident	three people briefed on the incident said.	
+man-e1161e38dc19#21	man-e1161e38dc19	21	unnamed	intelligence_and_relationship	the people	the people said.	
+man-e1161e38dc19#22	man-e1161e38dc19	22	named_person	background	Brian Krzanich	Brian Krzanich resigned in 2018 from Intel, the chip maker, after acknowledging a “past consensual relationship” with an employee.	
+man-nyt-1029-01#1	man-nyt-1029-01	1	unnamed	intelligence_and_relationship	American officials	American officials had concluded that she was a Chinese intelligence asset, funneling information to Beijing.	
+man-nyt-1029-01#2	man-nyt-1029-01	2	document	intelligence_and_relationship	Surveillance of the executive, Alice Huang or Huang Le, a Chinese citizen	Surveillance of the executive, Alice Huang or Huang Le, a Chinese citizen, revealed that she had developed a close relationship with Jensen Huang, Nvidia’s chief executive.	
+man-nyt-1029-01#3	man-nyt-1029-01	3	unnamed	intelligence_and_relationship	people briefed on the surveillance	This account is based on interviews with people briefed on the surveillance, who spoke on the condition of anonymity because the findings are drawn from classified intelligence	who spoke on the condition of anonymity because the findings are drawn from classified intelligence
+man-nyt-1029-01#4	man-nyt-1029-01	4	unnamed	intelligence_and_relationship	other officials and industry executives and analysts	as well as other officials and industry executives and analysts.	
+man-nyt-1029-01#5	man-nyt-1029-01	5	unnamed	intelligence_and_relationship	American officials	American officials already suspected that Ms. Huang was helping China evade constraints on its ability to gain access to advanced A.I. chips.	
+man-nyt-1029-01#6	man-nyt-1029-01	6	unnamed	government_handling	people briefed on the surveillance	people briefed on the surveillance said.	
+man-nyt-1029-01#7	man-nyt-1029-01	7	unnamed	intelligence_and_relationship	they	The surveillance of Ms. Huang continues, they said	
+man-nyt-1029-01#8	man-nyt-1029-01	8	institution	company	Nvidia	Nvidia said the company that employed Ms. Huang, Megaspeed, was like any other regional customer	
+man-nyt-1029-01#9	man-nyt-1029-01	9	named_person	intelligence_and_relationship	John Rizzo, a spokesman for Nvidia	John Rizzo, a spokesman for Nvidia, said: “Jensen’s interactions with Ms. Huang are not unusual or unexpected.	
+man-nyt-1029-01#10	man-nyt-1029-01	10	named_person	government_handling	Mr. Rizzo	Mr. Rizzo said.	
+man-nyt-1029-01#11	man-nyt-1029-01	11	named_person	intelligence_and_relationship	he	Customers like Megaspeed, he added, “receive ordinary business information — not sensitive Nvidia trade secrets — and zero information relevant to national security.”	
+man-nyt-1029-01#12	man-nyt-1029-01	12	institution	government_handling	The White House	The White House, the C.I.A. and the National Security Agency all declined to comment.	
+man-nyt-1029-01#13	man-nyt-1029-01	13	institution	government_handling	the C.I.A.	The White House, the C.I.A. and the National Security Agency all declined to comment.	
+man-nyt-1029-01#14	man-nyt-1029-01	14	institution	government_handling	the National Security Agency	The White House, the C.I.A. and the National Security Agency all declined to comment.	
+man-nyt-1029-01#15	man-nyt-1029-01	15	institution	company	Megaspeed	In a statement to The New York Times, Megaspeed said that its “current leadership” takes the matter “extremely seriously	
+man-nyt-1029-01#16	man-nyt-1029-01	16	institution	company	It	It added that “outside counsel has been retained to conduct a thorough internal investigation	
+man-nyt-1029-01#17	man-nyt-1029-01	17	institution	company	Megaspeed	Megaspeed later added in a statement that it “cannot respond to a media trial and welcomes formal, evidence-based investigation.”	
+man-nyt-1029-01#18	man-nyt-1029-01	18	named_person	intelligence_and_relationship	Ms. Huang	Ms. Huang did not respond to requests for comment.	
+man-nyt-1029-01#19	man-nyt-1029-01	19	unnamed	business	A person familiar with Megaspeed’s operations	A person familiar with Megaspeed’s operations said that Ms. Huang had become less active in the company in the wake of the American investigations.	
+man-nyt-1029-01#20	man-nyt-1029-01	20	named_person	intelligence_and_relationship	Liu Chang, the spokesman for the Chinese Embassy in Washington	Liu Chang, the spokesman for the Chinese Embassy in Washington, said the United States was pursuing a campaign of “groundless smears and slanders” against China.	
+man-nyt-1029-01#21	man-nyt-1029-01	21	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials did not believe the Nvidia executive knew that Ms. Huang was gathering information for the Chinese.	
+man-nyt-1029-01#22	man-nyt-1029-01	22	unnamed	intelligence_and_relationship	some senior officials inside the Trump administration	some senior officials inside the Trump administration doubt that Mr. Huang could have remained unaware of what they had concluded was her intelligencegathering role for China.	
+man-nyt-1029-01#23	man-nyt-1029-01	23	own_observation	background	The New York Times	Questions about whether Megaspeed was providing A.I. chips to China became public through articles published last year by The New York Times and Bloomberg News.	
+man-nyt-1029-01#24	man-nyt-1029-01	24	other_outlet	background	Bloomberg News	Questions about whether Megaspeed was providing A.I. chips to China became public through articles published last year by The New York Times and Bloomberg News.	
+man-nyt-1029-01#25	man-nyt-1029-01	25	unnamed	government_handling	current and former U.S. officials	current and former U.S. officials said.	
+man-nyt-1029-01#26	man-nyt-1029-01	26	institution	company	Nvidia	Nvidia has said that it complies with the law and that there is no evidence of its chips being smuggled to China.	
+man-nyt-1029-01#27	man-nyt-1029-01	27	named_person	government_handling	Mr. Rizzo	Mr. Rizzo said China’s government has “blocked U.S. AI chips, protecting its own industry.”	
+man-nyt-1029-01#28	man-nyt-1029-01	28	own_observation	background	The Times	The previous reporting about Ms. Huang by The Times described her meteoric and somewhat mysterious rise.	
+man-nyt-1029-01#29	man-nyt-1029-01	29	institution	intelligence_and_relationship	the Commerce Department	the Commerce Department, toward the end of the Biden administration, began to suspect was helping China evade U.S. prohibitions and gain access to the computing power of Nvidia chips.	
+man-nyt-1029-01#30	man-nyt-1029-01	30	unnamed	government_handling	a Commerce Department official	a Commerce Department official visited its data center in Malaysia and found the site to be suspicious.	
+man-nyt-1029-01#31	man-nyt-1029-01	31	unnamed	government_handling	administration officials	administration officials said.	
+man-nyt-1029-01#32	man-nyt-1029-01	32	unnamed	government_handling	Some U.S. officials and lawmakers	Some U.S. officials and lawmakers consider this to be a problematic loophole	
+man-nyt-1029-01#33	man-nyt-1029-01	33	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials believe the firm is one piece of a sprawling international effort by Chinese companies to access the chips needed to build and run A.I.	
+man-nyt-1029-01#34	man-nyt-1029-01	34	unnamed	intelligence_and_relationship	Investigators	Investigators suspect that some Nvidia chips acquired by Megaspeed are also finding their way illegally into China.	
+man-nyt-1029-01#35	man-nyt-1029-01	35	document	business	trade records obtained from ImportGenius, a trade platform	according to trade records obtained from ImportGenius, a trade platform.	
+man-nyt-1029-01#36	man-nyt-1029-01	36	document	business	The limited data available for most of this year	The limited data available for most of this year shows that Megaspeed and its affiliates kept buying Nvidia products, often through intermediaries.	
+man-nyt-1029-01#37	man-nyt-1029-01	37	document	business	its website	The company continues to list Megaspeed on its website as a cloud partner.	
+man-nyt-1029-01#38	man-nyt-1029-01	38	institution	business	Megaspeed	Megaspeed advertised the relationship as recently as this month.	
+man-nyt-1029-01#39	man-nyt-1029-01	39	institution	business	Megaspeed’s Indonesian branch	In a job ad, Megaspeed’s Indonesian branch called itself “a premier business partner of Nvidia.”	
+man-nyt-1029-01#40	man-nyt-1029-01	40	unnamed	business	that person and other tech industry analysts	according to that person and other tech industry analysts.	
+man-nyt-1029-01#41	man-nyt-1029-01	41	document	intelligence_and_relationship	photos posted to LinkedIn	photos posted to LinkedIn showed Mr. Huang alongside Ms. Huang at a bar in Taipei following a local technology trade show.	
+man-nyt-1029-01#42	man-nyt-1029-01	42	own_observation	background	a Times article	Those details were described in a Times article last October.	
+man-nyt-1029-01#43	man-nyt-1029-01	43	unnamed	intelligence_and_relationship	People with knowledge of the matter	People with knowledge of the matter said U.S. agencies had been conducting electronic surveillance of Ms. Huang.	
+man-nyt-1029-01#44	man-nyt-1029-01	44	document	intelligence_and_relationship	That surveillance	That surveillance showed that she was in contact with an American citizen.	
+man-nyt-1029-01#45	man-nyt-1029-01	45	document	intelligence_and_relationship	the unmasking process	In this case, the unmasking process identified Mr. Huang as the U.S. citizen.	
+man-nyt-1029-01#46	man-nyt-1029-01	46	unnamed	government_handling	people briefed on the discussion there	according to people briefed on the discussion there	
+man-nyt-1029-01#47	man-nyt-1029-01	47	unnamed	company	a person with knowledge of the matter	a person with knowledge of the matter said.	
+man-nyt-1029-01#48	man-nyt-1029-01	48	institution	company	The company	The company also pledged to invest $500 billion on manufacturing in the United States.	
+man-nyt-1029-01#49	man-nyt-1029-01	49	unnamed	government_handling	People who have watched the two men interact	People who have watched the two men interact say Mr. Trump has been won over by the lavish praise Mr. Huang has given the president in public	
+man-nyt-1029-01#50	man-nyt-1029-01	50	own_observation	background	The Times	The Times reported last year on her role in purchasing Nvidia chips	
+man-nyt-1029-01#51	man-nyt-1029-01	51	unnamed	intelligence_and_relationship	a person who viewed it	according to a person who viewed it.	
+man-nyt-1029-01#52	man-nyt-1029-01	52	named_person	background	She	She has described herself as Megaspeed’s chief executive	
+man-nyt-1029-01#53	man-nyt-1029-01	53	institution	background	the company	the company listed her as its managing director for its first eight months before removing her from that role in its corporate paperwork.	
+man-nyt-1029-01#54	man-nyt-1029-01	54	document	background	business records	according to business records and his social media accounts.	
+man-nyt-1029-01#55	man-nyt-1029-01	55	document	background	his social media accounts	according to business records and his social media accounts.	
+man-nyt-1029-01#56	man-nyt-1029-01	56	document	background	information posted online by a Chinese investment fund where Ms. Huang worked	According to information posted online by a Chinese investment fund where Ms. Huang worked, she was formerly employed in China as a TV reporter	
+man-nyt-1029-01#57	man-nyt-1029-01	57	document	background	WireScreen, a data platform	according to WireScreen, a data platform.	
+man-nyt-1029-01#58	man-nyt-1029-01	58	unnamed	business	tech investors familiar with the company	According to tech investors familiar with the company	
+man-nyt-1029-01#59	man-nyt-1029-01	59	named_person	business	Ms. Huang	Ms. Huang and her associates bragged about her connections to Mr. Huang	
+man-nyt-1029-01#60	man-nyt-1029-01	60	unnamed	business	her associates	Ms. Huang and her associates bragged about her connections to Mr. Huang	
+man-nyt-1029-01#61	man-nyt-1029-01	61	unnamed	business	industry analysts	according to industry analysts, online job posts and other records.	
+man-nyt-1029-01#62	man-nyt-1029-01	62	document	business	online job posts	according to industry analysts, online job posts and other records.	
+man-nyt-1029-01#63	man-nyt-1029-01	63	document	business	other records	according to industry analysts, online job posts and other records.	
+man-nyt-1029-01#64	man-nyt-1029-01	64	document	business	a stock filing last month	In a stock filing last month, a Malaysian property developer said it had received the final payment for the 53-acre plot	
+man-nyt-1029-01#65	man-nyt-1029-01	65	institution	business	a Megaspeed subsidiary	a Megaspeed subsidiary has promised to build the data center.	
+man-nyt-1029-01#66	man-nyt-1029-01	66	own_observation	business	a Times journalist	When a Times journalist visited recently, rows of construction materials sat between the skeletal frames of partially built data centers.	
+man-nyt-1029-01#67	man-nyt-1029-01	67	unnamed	business	a person with knowledge of the plans	according to a person with knowledge of the plans.	
+man-nyt-1105-01#1	man-nyt-1105-01	1	own_observation	intelligence_and_relationship	The New York Times	The New York Times reported last week that Mr. Huang had a close relationship	
+man-nyt-1105-01#2	man-nyt-1105-01	2	unnamed	intelligence_and_relationship	U.S. ofﬁcials	U.S. ofﬁcials determined was funneling information to Chinese intelligence.	
+man-nyt-1105-01#3	man-nyt-1105-01	3	unnamed	intelligence_and_relationship	American officials	American officials determined was funneling information to Chinese intelligence.	
+man-nyt-1105-01#4	man-nyt-1105-01	4	own_observation	intelligence_and_relationship	The New York Times	The New York Times reported last week that Mr. Huang had a close relationship with Alice Huang	
+man-nyt-1105-01#5	man-nyt-1105-01	5	institution	intelligence_and_relationship	the U.S. government	the U.S. government suspected of helping China evade U.S. prohibitions and gain access to Nvidia’s artificial intelligence chips.	
+man-nyt-1105-01#6	man-nyt-1105-01	6	named_person	government_handling	they	“It is vital Congress determines the extent to which U.S. national security has been placed at risk,” they wrote.	
+man-nyt-1105-01#7	man-nyt-1105-01	7	named_person	government_handling	John Rizzo, a spokesman for Nvidia	John Rizzo, a spokesman for Nvidia, declined to comment on whether Mr. Huang would appear.	
+man-nyt-1105-01#8	man-nyt-1105-01	8	named_person	company	Mr. Rizzo	him where needed,” Mr. Rizzo said in a statement.	
+man-nyt-1105-01#9	man-nyt-1105-01	9	document	intelligence_and_relationship	surveillance of Ms. Huang	American spy agencies learned of the relationship through surveillance of Ms. Huang	
+man-nyt-1105-01#10	man-nyt-1105-01	10	named_person	government_handling	the president	the president spoke of a major chip sale to the United Arab Emirates and Saudi Arabia.	
+man-nyt-1105-01#11	man-nyt-1105-01	11	institution	company	Nvidia	Nvidia also donated more than $20 million to the White House ballroom and promised to invest $500 billion in U.S. manufacturing.	
+man-nyt-1105-01#12	man-nyt-1105-01	12	own_observation	intelligence_and_relationship	The Times	The Times reported on Mr. Huang’s relationship with Ms. Huang.	
+man-nyt-1105-01#13	man-nyt-1105-01	13	document	background	corporate paperwork	Ms. Huang, who is a Chinese citizen, was listed as its managing director for its first eight months before removing herself from that role in corporate paperwork.	
+man-nyt-1105-01#14	man-nyt-1105-01	14	document	business	trade records obtained from ImportGenius, a trade platform	according to trade records obtained from ImportGenius, a trade platform.	
+man-nyt-1105-01#15	man-nyt-1105-01	15	unnamed	government_handling	a Commerce Department official	a Commerce Department official visited its data center in Malaysia and found the site to be suspicious.	
+man-nyt-1105-01#16	man-nyt-1105-01	16	institution	company	Nvidia	Nvidia has said that it complies with the law and that there is no evidence that its chips are being smuggled to China.	
+man-nyt-1105-01#17	man-nyt-1105-01	17	named_person	intelligence_and_relationship	Mr. Rizzo	In a statement last week, Mr. Rizzo said Mr. Huang’s “interactions with Ms. Huang are not unusual or unexpected.”	
+man-nyt-1105-01#18	man-nyt-1105-01	18	named_person	intelligence_and_relationship	He	He added, “Meetings with customers are part of a C.E.O.’s job; Jensen talks with thousands of customer executives every year.”	
+man-nyt-1106-01#1	man-nyt-1106-01	1	document	intelligence_and_relationship	A memo that circulated among U.S. policymakers	A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidiaʼs leader, was an asset of Beijingʼs Ministry of State Security.	
+man-nyt-1106-01#2	man-nyt-1106-01	2	document	intelligence_and_relationship	A memo that circulated among top policymakers in the Trump administration last spring	A memo that circulated among top policymakers in the Trump administration last spring cited intelligence	
+man-nyt-1106-01#3	man-nyt-1106-01	3	unnamed	intelligence_and_relationship	people briefed on the intelligence	according to people briefed on the intelligence.	
+man-nyt-1106-01#4	man-nyt-1106-01	4	unnamed	intelligence_and_relationship	the people	the people said.	
+man-nyt-1106-01#5	man-nyt-1106-01	5	unnamed	intelligence_and_relationship	U.S. officials	the assessment by U.S. officials that Ms. Huang was working directly for the main Chinese intelligence agency	
+man-nyt-1106-01#6	man-nyt-1106-01	6	own_observation	intelligence_and_relationship	The New York Times	The New York Times reported last week that Mr. Huang was a target of a Chinese intelligence operation	
+man-nyt-1106-01#7	man-nyt-1106-01	7	own_observation	government_handling	The Times	The Times reported that Mr. Trump had been briefed last year about Mr. Huang’s relationship with her, but chose not to do anything about it.	
+man-nyt-1106-01#8	man-nyt-1106-01	8	unnamed	background	people who have met her	said people who have met her.	
+man-nyt-1106-01#9	man-nyt-1106-01	9	named_person	background	Peter Mattis, a former C.I.A. counterintelligence analyst	Peter Mattis, a former C.I.A. counterintelligence analyst, said China’s spy agency had made technology a focus of its activities	
+man-nyt-1106-01#10	man-nyt-1106-01	10	named_person	intelligence_and_relationship	Mr. Mattis	said Mr. Mattis, who is now the president of the Jamestown Foundation, a national security think tank.	
+man-nyt-1106-01#11	man-nyt-1106-01	11	named_person	intelligence_and_relationship	John Rizzo, an Nvidia spokesman	John Rizzo, an Nvidia spokesman, said that the company does not share classified information with its customers	
+man-nyt-1106-01#12	man-nyt-1106-01	12	named_person	government_handling	He	He added that the Chinese government had “consistently promoted its own domestic alternatives in China, including Huawei, and strictly limited imports of our data center products.”	
+man-nyt-1106-01#13	man-nyt-1106-01	13	named_person	intelligence_and_relationship	Mr. Rizzo	Mr. Rizzo has maintained that Mr. Huang’s interactions with Ms. Huang were “not unusual”	
+man-nyt-1106-01#14	man-nyt-1106-01	14	named_person	intelligence_and_relationship	Liu Chang, a spokesman for the Chinese embassy	Liu Chang, a spokesman for the Chinese embassy, said The Times reporting was “unsubstantiated” and “nothing but smears against China.”	
+man-nyt-1106-01#15	man-nyt-1106-01	15	named_person	intelligence_and_relationship	Ms. Huang	Ms. Huang has not responded to multiple attempts to reach her for comment in recent days.	
+man-nyt-1106-01#16	man-nyt-1106-01	16	named_person	intelligence_and_relationship	Mr. Rizzo	Mr. Rizzo previously said that Mr. Huang’s interactions with Ms. Huang were “not unusual,”	
+man-nyt-1106-01#17	man-nyt-1106-01	17	institution	government_handling	the White House	Spokeswomen for the White House and C.I.A. declined to comment.	
+man-nyt-1106-01#18	man-nyt-1106-01	18	institution	government_handling	C.I.A.	Spokeswomen for the White House and C.I.A. declined to comment.	
+man-nyt-1106-01#19	man-nyt-1106-01	19	named_person	government_handling	Mr. Huang	Mr. Huang has been steadfast over the past several years in calling for the U.S. government to permit chip makers to sell A.I. technology to China.	
+man-nyt-1106-01#20	man-nyt-1106-01	20	named_person	business	He	He has argued that doing so would create competition for Huawei, China’s tech giant, and slow its development of A.I. technology.	
+man-nyt-1106-01#21	man-nyt-1106-01	21	named_person	government_handling	Mr. Huang	Speaking at an investor conference in May, Mr. Huang said that China should not have access to Nvidia’s best technology	
+man-nyt-1106-01#22	man-nyt-1106-01	22	named_person	government_handling	He	He said the United States should have “the first, the most and the best, but simultaneously all American companies should compete globally.”	
+man-nyt-1106-01#23	man-nyt-1106-01	23	unnamed	background	researchers and U.S. officials	according to researchers and U.S. officials.	
+man-nyt-1106-01#24	man-nyt-1106-01	24	institution	background	the Justice Department	the Justice Department accused hackers associated with the M.S.S. of attempting to steal U.S. technology and infiltrate U.S. networks.	
+man-nyt-1106-01#25	man-nyt-1106-01	25	unnamed	background	Political analysts	Political analysts say their ties are close.	
+man-nyt-1106-01#26	man-nyt-1106-01	26	named_person	background	he	In a September essay in the state-run magazine China Cyberspace, he said that China needed to assert control over A.I.	
+man-nyt-1106-01#27	man-nyt-1106-01	27	named_person	background	He	He said algorithms would help countries “gain the initiative on the battlefield.”	
+man-nyt-1107-01#1	man-nyt-1107-01	1	own_observation	government_handling	The New York Times	recent checks by The New York Times found that, within China, there is little evidence the firm actually exists	
+man-nyt-1107-01#2	man-nyt-1107-01	2	institution	business	New Matrix	At the building that New Matrix lists as its address	
+man-nyt-1107-01#3	man-nyt-1107-01	3	document	business	a company directory	a company directory does not include the firm.	
+man-nyt-1107-01#4	man-nyt-1107-01	4	unnamed	business	a receptionist	a receptionist and a manager both said they had no record of the company.	
+man-nyt-1107-01#5	man-nyt-1107-01	5	unnamed	business	a manager	a receptionist and a manager both said they had no record of the company.	
+man-nyt-1107-01#6	man-nyt-1107-01	6	document	government_handling	Chinese corporate records	According to Chinese corporate records, New Matrix’s owners have ties to a prominent	
+man-nyt-1107-01#7	man-nyt-1107-01	7	unnamed	government_handling	Two analysts who examined the corporate records and other Chinese-language information	Two analysts who examined the corporate records and other Chinese-language information said they believed New Matrix may be a front for firms associated with that fund.	
+man-nyt-1107-01#8	man-nyt-1107-01	8	document	government_handling	Corporate records	Corporate records show that several other Chinese companies approved to purchase H200 chips or assemble them into servers have ties to firms that have been blacklisted by the U.S. government	
+man-nyt-1107-01#9	man-nyt-1107-01	9	named_person	government_handling	Liza Tobin	Liza Tobin, the former China director for the White House National Security Council in the first Trump and Biden administrations, said the approvals raised questions	
+man-nyt-1107-01#10	man-nyt-1107-01	10	named_person	government_handling	she	“I have a ton of concerns that neither the Commerce Department or Nvidia is doing the due diligence needed to ensure that the licensing terms are being followed,” she said.	
+man-nyt-1107-01#11	man-nyt-1107-01	11	unnamed	government_handling	people familiar with the approvals	according to people familiar with the approvals.	
+man-nyt-1107-01#12	man-nyt-1107-01	12	unnamed	government_handling	the people	the people said.	
+man-nyt-1107-01#13	man-nyt-1107-01	13	other_outlet	government_handling	Reuters	Reuters previously reported that the Commerce Department had approved major Chinese companies like Alibaba, Tencent, ByteDance and ZTE Kangxun Telecom for the licenses.	
+man-nyt-1107-01#14	man-nyt-1107-01	14	institution	government_handling	A spokesman for the Bureau of Industry and Security	A spokesman for the Bureau of Industry and Security, which reviews licenses inside the Commerce Department, said it carefully reviews all applications for national security risks.	
+man-nyt-1107-01#15	man-nyt-1107-01	15	institution	government_handling	The agency	The agency also said it had imposed $324 million of penalties on companies for export violations in 2025 and hired more than 90 officers this year to enforce technology rules.	
+man-nyt-1107-01#16	man-nyt-1107-01	16	institution	business	New Matrix	New Matrix did not respond to requests for comment.	
+man-nyt-1107-01#17	man-nyt-1107-01	17	named_person	company	John Rizzo, a spokesman for Nvidia	John Rizzo, a spokesman for Nvidia, said that “it makes no sense for the Chinese military to depend on American technology,”	
+man-nyt-1107-01#18	man-nyt-1107-01	18	named_person	business	He	He added that the Chinese government has strictly limited imports of the H200 in favor of its own chip companies	
+man-nyt-1107-01#19	man-nyt-1107-01	19	institution	business	The company	The company also said in August that it was not assuming any sales to China in its estimate for data center revenue for the current quarter.	
+man-nyt-1107-01#20	man-nyt-1107-01	20	own_observation	intelligence_and_relationship	The Times	The Times reported last month that Mr. Huang of Nvidia had a close relationship with a woman	
+man-nyt-1107-01#21	man-nyt-1107-01	21	institution	intelligence_and_relationship	American spy agencies	American spy agencies concluded was an intelligence asset for China.	
+man-nyt-1107-01#22	man-nyt-1107-01	22	institution	company	Nvidia	On Sunday, Nvidia said that it was opening an investigation into Mr. Huang’s relationship with the woman	
+man-nyt-1107-01#23	man-nyt-1107-01	23	named_person	intelligence_and_relationship	he	after he acknowledged to the company’s board that he had been intimate with her.	
+man-nyt-1107-01#24	man-nyt-1107-01	24	document	business	the Chinese corporate information site Qichacha	according to the Chinese corporate information site Qichacha.	
+man-nyt-1107-01#25	man-nyt-1107-01	25	own_observation	business	The Times	the empty office in the industrial park visited by The Times.	
+man-nyt-1107-01#26	man-nyt-1107-01	26	document	business	New Matrix’s website	New Matrix’s website does not name any staff members, advertise any jobs or include information about its history, as of Nov. 6.	
+man-nyt-1107-01#27	man-nyt-1107-01	27	document	business	WireScreen, a data platform	according to WireScreen, a data platform.	
+man-nyt-1107-01#28	man-nyt-1107-01	28	institution	government_handling	The department	The department said Wise Road had helped the Chinese government acquire strategically sensitive companies with chip technology.	
+man-nyt-1107-01#29	man-nyt-1107-01	29	own_observation	government_handling	The Times	In September, The Times reported that another recently created Chinese firm called Maginfra had also received a license for H200s.	
+man-nyt-1107-01#30	man-nyt-1107-01	30	own_observation	business	a Times reporter	But when a Times reporter visited Maginfra’s listed address in China in September	
+man-nyt-1107-01#31	man-nyt-1107-01	31	unnamed	business	Workers on the floor	Workers on the floor said they had not seen anyone use the office	
+man-nyt-1107-01#32	man-nyt-1107-01	32	unnamed	business	building receptionists	building receptionists said they had not heard of Maginfra.	
+man-nyt-1107-01#33	man-nyt-1107-01	33	unnamed	business	Analysts	Analysts said they believed Maginfra was an offshoot of Inspur, a company whose headquarters were near Maginfra’s listed address.	
+man-nyt-1107-01#34	man-nyt-1107-01	34	unnamed	government_handling	people familiar with the approvals	according to people familiar with the approvals and documents viewed by The Times.	
+man-nyt-1107-01#35	man-nyt-1107-01	35	document	government_handling	documents viewed by The Times	according to people familiar with the approvals and documents viewed by The Times.	
+man-nyt-1107-01#36	man-nyt-1107-01	36	institution	business	it	which it has described on its website as serving the strategic needs of “national defense development.”	
+man-nyt-1107-01#37	man-nyt-1107-01	37	institution	business	Shanghai Jiatang	Shanghai Jiatang, Yindun Cloud and Maginfra did not respond to requests for comment.	
+man-nyt-1107-01#38	man-nyt-1107-01	38	institution	business	Yindun Cloud	Shanghai Jiatang, Yindun Cloud and Maginfra did not respond to requests for comment.	
+man-nyt-1107-01#39	man-nyt-1107-01	39	institution	business	Maginfra	Shanghai Jiatang, Yindun Cloud and Maginfra did not respond to requests for comment.	
+man-nyt-1108-01#1	man-nyt-1108-01	1	named_person	intelligence_and_relationship	Mr. Huang	Mr. Huang, the companyʼs chief executive, acknowledged on Sunday that he was intimate with a business executive	
+man-nyt-1108-01#2	man-nyt-1108-01	2	unnamed	intelligence_and_relationship	U.S. ofﬁcials	U.S. ofﬁcials had determined was working for Chinese intelligence.	
+man-nyt-1108-01#3	man-nyt-1108-01	3	institution	company	Nvidia	Nvidia said on Sunday that it was opening an investigation into Jensen Huang, its chief executive and co-founder	
+man-nyt-1108-01#4	man-nyt-1108-01	4	named_person	intelligence_and_relationship	he	after he acknowledged to the company’s board that he had been intimate with a business executive	
+man-nyt-1108-01#5	man-nyt-1108-01	5	institution	intelligence_and_relationship	U.S. intelligence	U.S. intelligence determined was a Chinese spy.	
+man-nyt-1108-01#6	man-nyt-1108-01	6	document	intelligence_and_relationship	surveillance	surveillance revealed that she was feeding information directly to Beijing.	
+man-nyt-1108-01#7	man-nyt-1108-01	7	named_person	intelligence_and_relationship	Mr. Huang	In a message to the company, Mr. Huang apologized.	
+man-nyt-1108-01#8	man-nyt-1108-01	8	named_person	intelligence_and_relationship	he	“I was unfaithful to my wife,” he said.	
+man-nyt-1108-01#9	man-nyt-1108-01	9	institution	intelligence_and_relationship	Nvidia’s board	Nvidia’s board said that it had “no reason to believe that either national security or Nvidia secrets were compromised,”	
+man-nyt-1108-01#10	man-nyt-1108-01	10	institution	company	It	It said Mr. Huang “fully supports the review and has committed to cooperating with it.”	
+man-nyt-1108-01#11	man-nyt-1108-01	11	named_person	company	Rizzo, a company spokesman	Rizzo, a company spokesman, said Mr. Huang wouldn’t be part of the selection process.	
+man-nyt-1108-01#12	man-nyt-1108-01	12	institution	company	the board	Mr. Huang, 63, will continue to lead the company during the investigation, the board said.	
+man-nyt-1108-01#13	man-nyt-1108-01	13	named_person	company	Mr. Rizzo	“Today’s news will not slow Nvidia,” Mr. Rizzo said.	
+man-nyt-1108-01#14	man-nyt-1108-01	14	named_person	government_handling	The president	The president said he would “certainly take him” on his upcoming trip to China.	
+man-nyt-1108-01#15	man-nyt-1108-01	15	named_person	government_handling	Mr. Trump	“I haven’t heard he’s done anything wrong,” Mr. Trump said.	
+man-nyt-1108-01#16	man-nyt-1108-01	16	named_person	government_handling	Mr. Trump	Mr. Trump said he had not spoken to Mr. Huang about the situation.	
+man-nyt-1108-01#17	man-nyt-1108-01	17	named_person	government_handling	Mr. Trump	“I just know he’s a fine person, but you never know what’s going on,” Mr. Trump said.	
+man-nyt-1108-01#18	man-nyt-1108-01	18	named_person	government_handling	He	He added that he had no regrets about his own lack of action	
+man-nyt-1108-01#19	man-nyt-1108-01	19	named_person	government_handling	Mr. Trump	Mr. Trump said. “He has done an amazing job for our country. “	
+man-nyt-1108-01#20	man-nyt-1108-01	20	named_person	company	Mr. Trump	When asked if Mr. Huang should stay on as chief executive of Nvidia, Mr. Trump said: “I think so. Oh yes, sure.”	
+man-nyt-1108-01#21	man-nyt-1108-01	21	own_observation	intelligence_and_relationship	The New York Times	The New York Times first reported last month that American intelligence agencies had discovered that Mr. Huang had developed a close relationship	
+man-nyt-1108-01#22	man-nyt-1108-01	22	institution	intelligence_and_relationship	American intelligence agencies	American intelligence agencies had discovered that Mr. Huang had developed a close relationship with a Chinese citizen and chip buyer	
+man-nyt-1108-01#23	man-nyt-1108-01	23	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials concluded was gathering intelligence for Beijing.	
+man-nyt-1108-01#24	man-nyt-1108-01	24	document	background	whose biography	whose biography said she worked in China as a TV reporter	
+man-nyt-1108-01#25	man-nyt-1108-01	25	own_observation	government_handling	The Times	The Times reported last year that the Commerce Department was investigating whether the company was helping China smuggle restricted A.I. chips.	
+man-nyt-1108-01#26	man-nyt-1108-01	26	institution	intelligence_and_relationship	Nvidia	Nvidia and Mr. Huang initially said there was nothing problematic or unusual about his relationship with Ms. Huang.	
+man-nyt-1108-01#27	man-nyt-1108-01	27	named_person	intelligence_and_relationship	Mr. Huang	Nvidia and Mr. Huang initially said there was nothing problematic or unusual about his relationship with Ms. Huang.	
+man-nyt-1108-01#28	man-nyt-1108-01	28	named_person	intelligence_and_relationship	he	In an interview with Bloomberg News last month, he said that his interactions with Ms. Huang had been “related to Megaspeed, and it was all completely normal and not unusual.”	
+man-nyt-1108-01#29	man-nyt-1108-01	29	named_person	background	Mr. Huang	Mr. Huang has credited his wife, Lori, whom he married in 1985, with making it possible for him to build the company.	
+man-nyt-1108-01#30	man-nyt-1108-01	30	named_person	background	Mr. Huang	Mr. Huang said during a 2024 discussion about his career at Hong Kong University of Science and Technology.	
+man-nyt-1108-01#31	man-nyt-1108-01	31	named_person	background	Mr. Huang	Mr. Huang also promised her that by the age of 30 he would be the chief executive of a company.	
+man-nyt-1108-01#32	man-nyt-1108-01	32	named_person	background	Mr. Huang	“Lori took care of everything and I don’t remember her complaining one time,” Mr. Huang said on the podcast “How I Built This.”	
+man-nyt-1108-01#33	man-nyt-1108-01	33	institution	intelligence_and_relationship	they	In the course of the surveillance, they found that she was in communication with a U.S. citizen who was identified as Mr. Huang.	
+man-nyt-1108-01#34	man-nyt-1108-01	34	unnamed	intelligence_and_relationship	Officials who had seen that intelligence	Officials who had seen that intelligence said they were certain the relationship was romantic.	
+man-nyt-1108-01#35	man-nyt-1108-01	35	document	intelligence_and_relationship	a highly classified memo	a highly classified memo detailing intelligence showing that Alice Huang was recruited by the Chinese Ministry of State Security to target Mr. Huang.	
+man-nyt-1108-01#36	man-nyt-1108-01	36	named_person	government_handling	Senator Elizabeth Warren	Senator Elizabeth Warren, the Massachusetts Democrat who is the ranking member on the Senate Banking Committee, which oversees chip sales abroad, said	
+man-nyt-1108-01#37	man-nyt-1108-01	37	named_person	background	Ms. Huang	Ms. Huang was listed as Megaspeeed’s managing director when it was created, and later described herself as its chief executive.	
+man-nyt-1108-01#38	man-nyt-1108-01	38	document	background	an online biography	according to an online biography, she worked at several major Chinese banks.	
+man-nyt-1108-01#39	man-nyt-1108-01	39	document	background	a review of corporate and trade records compiled by the platforms WireScreen and Sayari	according to a review of corporate and trade records compiled by the platforms WireScreen and Sayari	
+man-nyt-1108-01#40	man-nyt-1108-01	40	document	background	an analysis by the Center for Advanced Defense Studies, a Washington nonprofit	an analysis by the Center for Advanced Defense Studies, a Washington nonprofit.	
+man-nyt-1108-01#41	man-nyt-1108-01	41	other_outlet	intelligence_and_relationship	Taiwanese media	Taiwanese media captured her giving him a kiss on the cheek and standing behind him as he spoke to journalists.	
+man-nyt-1108-01#42	man-nyt-1108-01	42	named_person	government_handling	Representative Michael McCaul	Representative Michael McCaul, a Republican of Texas who is the vice chair of the House Committee on Homeland Security, wrote on social media	
+man-nyt-1108-02#1	man-nyt-1108-02	1	document	intelligence_and_relationship	the highly classified memo	the highly classified memo this past spring warning top Trump administration officials that Nvidia’s chief executive, Jensen Huang, was in a close relationship with a Chinese spy	
+man-nyt-1108-02#2	man-nyt-1108-02	2	unnamed	government_handling	multiple people briefed on the matter	multiple people briefed on the matter said.	
+man-nyt-1108-02#3	man-nyt-1108-02	3	document	intelligence_and_relationship	classified intelligence from electronic surveillance of Alice Huang	The document was based on classified intelligence from electronic surveillance of Alice Huang	
+man-nyt-1108-02#4	man-nyt-1108-02	4	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials had concluded that Ms. Huang was in a close relationship with the Nvidia chief	
+man-nyt-1108-02#5	man-nyt-1108-02	5	named_person	government_handling	Mr. Huang	Mr. Huang has opposed calls for more tightly regulating the export of the most advanced A.I. chips	
+man-nyt-1108-02#6	man-nyt-1108-02	6	institution	company	Nvidia	On Sunday, Nvidia said it was opening an investigation into Mr. Huang	
+man-nyt-1108-02#7	man-nyt-1108-02	7	named_person	intelligence_and_relationship	he	after he acknowledged that he had been intimate with Ms. Huang	
+man-nyt-1108-02#8	man-nyt-1108-02	8	institution	intelligence_and_relationship	the company	the company said it had “no reason to believe that either national security or Nvidia secrets were compromised.”	
+man-nyt-1108-02#9	man-nyt-1108-02	9	named_person	intelligence_and_relationship	Mr. Huang	In a message to the company, Mr. Huang apologized.	
+man-nyt-1108-02#10	man-nyt-1108-02	10	named_person	intelligence_and_relationship	he	“I was unfaithful to my wife,” he said.	
+man-nyt-1108-02#11	man-nyt-1108-02	11	institution	government_handling	A State Department spokesman	A State Department spokesman and a White House spokeswoman declined to comment.	
+man-nyt-1108-02#12	man-nyt-1108-02	12	institution	government_handling	a White House spokeswoman	A State Department spokesman and a White House spokeswoman declined to comment.	
+man-nyt-1108-02#13	man-nyt-1108-02	13	unnamed	government_handling	the people briefed on the matter	the people briefed on the matter said.	They spoke on the condition of anonymity to discuss sensitive material.
+man-nyt-1108-02#14	man-nyt-1108-02	14	unnamed	government_handling	people briefed on the matter	people briefed on the matter said.	
+man-nyt-1108-02#15	man-nyt-1108-02	15	named_person	government_handling	The president	The president drafted a social media post saying that it was an honor to have “the Great Jensen Huang,”	
+man-nyt-1108-02#16	man-nyt-1108-02	16	own_observation	government_handling	The New York Times	The New York Times reported last month that Mr. Trump was briefed roughly a year ago	
+man-nyt-1108-02#17	man-nyt-1108-02	17	institution	intelligence_and_relationship	the U.S. intelligence community	the U.S. intelligence community had electronic surveillance of Ms. Huang, and believed that she was an operative working for China’s intelligence services.	
+man-nyt-1108-02#18	man-nyt-1108-02	18	document	intelligence_and_relationship	The surveillance	The surveillance revealed a close relationship between Ms. Huang and a U.S. citizen.	
+man-nyt-1108-02#19	man-nyt-1108-02	19	named_person	government_handling	Mr. Trump	Mr. Trump told reporters on Sunday evening that he did not regret his own lack of action.	
+man-nyt-1108-02#20	man-nyt-1108-02	20	named_person	government_handling	the president	“No, I don’t think so,” the president said.	
+man-nyt-1108-02#21	man-nyt-1108-02	21	named_person	company	He	He added that he believed Mr. Huang should stay on as Nvidia’s chief executive.	
+man-nyt-1108-02#22	man-nyt-1108-02	22	named_person	government_handling	Mr. Trump	hear it,” Mr. Trump said.	
+man-nyt-1108-02#23	man-nyt-1108-02	23	unnamed	background	people who have met her	people who have met her said.	
+man-nyt-1108-02#24	man-nyt-1108-02	24	institution	intelligence_and_relationship	Nvidia officials	Nvidia officials have said that Mr. Huang’s interactions with Ms. Huang were “not unusual or unexpected”	
+man-nyt-1108-02#25	man-nyt-1108-02	25	institution	intelligence_and_relationship	The company	The company has also said customers like Megaspeed do not receive classified business information.	
+man-nyt-1108-02#26	man-nyt-1108-02	26	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials suspect Megaspeed has been helping smuggle restricted advanced Nvidia chips into China.	
+man-nyt-1108-02#27	man-nyt-1108-02	27	named_person	intelligence_and_relationship	Ms. Huang	Ms. Huang has not responded to attempts to reach her.	
+man-nyt-1109-01#1	man-nyt-1109-01	1	named_person	government_handling	President Trump	President Trump told reporters Monday that he believed Jensen Huangʼs account	
+man-nyt-1109-01#2	man-nyt-1109-01	2	named_person	government_handling	President Trump	President Trump told reporters Monday that he believed Jensen Huangʼs account and said he did not recall receiving a brieﬁng warning him about Mr. Huangʼs liaison.	
+man-nyt-1109-01#3	man-nyt-1109-01	3	named_person	government_handling	President Trump	President Trump said Monday that Jensen Huang, the chief executive of Nvidia, told him that he was not aware	
+man-nyt-1109-01#4	man-nyt-1109-01	4	named_person	intelligence_and_relationship	Jensen Huang, the chief executive of Nvidia	Jensen Huang, the chief executive of Nvidia, told him that he was not aware	
+man-nyt-1109-01#5	man-nyt-1109-01	5	named_person	government_handling	Mr. Trump	Mr. Trump told reporters at the White House.	
+man-nyt-1109-01#6	man-nyt-1109-01	6	own_observation	intelligence_and_relationship	The New York Times	a series of reports by The New York Times revealing that U.S. officials had concluded	
+man-nyt-1109-01#7	man-nyt-1109-01	7	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials had concluded that the woman, who goes by Alice Huang, had been recruited by China’s main spy agency	
+man-nyt-1109-01#8	man-nyt-1109-01	8	own_observation	government_handling	The Times	The Times reported last month that Mr. Trump had been briefed roughly a year ago	
+man-nyt-1109-01#9	man-nyt-1109-01	9	document	intelligence_and_relationship	electronic surveillance	electronic surveillance showing that Ms. Huang was believed by the U.S. intelligence community to be an operative for China’s government.	
+man-nyt-1109-01#10	man-nyt-1109-01	10	institution	intelligence_and_relationship	the U.S. intelligence community	Ms. Huang was believed by the U.S. intelligence community to be an operative for China’s government.	
+man-nyt-1109-01#11	man-nyt-1109-01	11	document	intelligence_and_relationship	a highly classified memo	a highly classified memo in the spring, warning top Trump administration officials about Ms. Huang and intelligence assessments that she was a spy for China’s Ministry of State Security	
+man-nyt-1109-01#12	man-nyt-1109-01	12	own_observation	government_handling	The Times	The Times reported Friday.	
+man-nyt-1109-01#13	man-nyt-1109-01	13	named_person	government_handling	Mr. Trump	On Monday, Mr. Trump said that he did not recall receiving the information.	
+man-nyt-1109-01#14	man-nyt-1109-01	14	named_person	government_handling	the president	the president said, “No, I didn’t hear about it then.”	
+man-nyt-1109-01#15	man-nyt-1109-01	15	named_person	government_handling	Mr. Trump	Mr. Trump demurred.	
+man-nyt-1109-01#16	man-nyt-1109-01	16	named_person	government_handling	he	“I’d have to check,” he said in response to a question about when he first learned of the matter.	
+man-nyt-1109-01#17	man-nyt-1109-01	17	named_person	intelligence_and_relationship	he	Mr. Huang’s relationship with Ms. Huang, which he publicly acknowledged Sunday	
+man-nyt-1109-01#18	man-nyt-1109-01	18	institution	company	The company	The company said on Sunday that it was opening an investigation into Mr. Huang	
+man-nyt-1109-01#19	man-nyt-1109-01	19	named_person	intelligence_and_relationship	he	after he told the board about his relationship with Ms. Huang.	
+man-nyt-1109-01#20	man-nyt-1109-01	20	named_person	intelligence_and_relationship	Mr. Huang	“I was unfaithful to my wife,” Mr. Huang said in a message to the company.	
+man-nyt-1109-01#21	man-nyt-1109-01	21	named_person	government_handling	the president	Speaking to reporters Monday, the president said he was mostly concerned with how Mr. Huang was holding up amid the scandal.	
+man-nyt-1109-01#22	man-nyt-1109-01	22	named_person	government_handling	Mr. Trump	“I did speak to him today just to see if he’s feeling all right,” Mr. Trump said, adding:	
+man-nyt-1109-01#23	man-nyt-1109-01	23	named_person	government_handling	The president	The president said the F.B.I. had been investigating a matter related to Mr. Huang	
+man-nyt-1109-01#24	man-nyt-1109-01	24	named_person	government_handling	he	he added that he believed the businessman did nothing wrong.	
+man-nyt-1109-01#25	man-nyt-1109-01	25	named_person	government_handling	Mr. Trump	in good shape,” Mr. Trump said.	
+man-nyt-1109-01#26	man-nyt-1109-01	26	named_person	government_handling	Mr. Trump	But Mr. Trump said he didn’t plan to bring up the matter of the suspected Chinese spy.	
+man-nyt-1109-01#27	man-nyt-1109-01	27	named_person	government_handling	Mr. Trump	“I’m sure President Xi will ask me about it,” Mr. Trump said.	
+man-nyt-1110-02#1	man-nyt-1110-02	1	document	intelligence_and_relationship	intelligence	intelligence showing that he was in a relationship with a woman believed to be a Chinese spy.	
+man-nyt-1110-02#2	man-nyt-1110-02	2	document	intelligence_and_relationship	sensitive intelligence	sensitive intelligence showing that Nvidia’s chief executive was in a relationship with a woman believed to be a Chinese spy	
+man-nyt-1110-02#3	man-nyt-1110-02	3	unnamed	government_handling	people with knowledge of the matter	people with knowledge of the matter said.	
+man-nyt-1110-02#4	man-nyt-1110-02	4	named_person	government_handling	Marco Rubio, his secretary of state and national security adviser	The message was delivered by Marco Rubio, his secretary of state and national security adviser	
+man-nyt-1110-02#5	man-nyt-1110-02	5	named_person	government_handling	the president’s	the president’s assertion on Monday that he had not known at the time of the trip about Mr. Huang’s relationship with the woman	
+man-nyt-1110-02#6	man-nyt-1110-02	6	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials had concluded was working for China’s Ministry of State Security.	
+man-nyt-1110-02#7	man-nyt-1110-02	7	named_person	government_handling	Mr. Trump	“No, I didn’t hear about it then,” Mr. Trump said	
+man-nyt-1110-02#8	man-nyt-1110-02	8	unnamed	government_handling	American officials	American officials first warned him last year that a woman having an affair with Mr. Huang was believed to be working for Chinese intelligence	
+man-nyt-1110-02#9	man-nyt-1110-02	9	own_observation	government_handling	The New York Times	The New York Times reported last month.	
+man-nyt-1110-02#10	man-nyt-1110-02	10	named_person	government_handling	Mr. Trump	Mr. Trump, who has embraced Nvidia as key to U.S. technology competitiveness and a driver of the stock market’s rise over the past several years, said he would have to check.	
+man-nyt-1110-02#11	man-nyt-1110-02	11	named_person	government_handling	he	“I’d certainly check with the intelligence people,” he said.	
+man-nyt-1110-02#12	man-nyt-1110-02	12	named_person	government_handling	He	He initially indicated he might invite Mr. Huang again	
+man-nyt-1110-02#13	man-nyt-1110-02	13	named_person	government_handling	he	on Monday he said the Nvidia executive will not accompany him on the trip.	
+man-nyt-1110-02#14	man-nyt-1110-02	14	named_person	government_handling	the president	the president continued to vigorously defend Mr. Huang, saying he had spoken to him and asked him if he knew that the woman, known as Alice Huang, was a spy.	
+man-nyt-1110-02#15	man-nyt-1110-02	15	named_person	intelligence_and_relationship	Mr. Huang	Mr. Huang said he did not, Mr. Trump said.	
+man-nyt-1110-02#16	man-nyt-1110-02	16	named_person	government_handling	Mr. Trump	Mr. Huang said he did not, Mr. Trump said.	
+man-nyt-1110-02#17	man-nyt-1110-02	17	named_person	government_handling	The president	The president said he did not plan to raise the matter with Mr. Xi when he meets the Chinese leader next week.	
+man-nyt-1110-02#18	man-nyt-1110-02	18	named_person	government_handling	Mr. Trump	“I just know Jensen very well,” Mr. Trump said on Monday.	
+man-nyt-1110-02#19	man-nyt-1110-02	19	unnamed	government_handling	one person with knowledge of the matter	according to one person with knowledge of the matter	
+man-nyt-1110-02#20	man-nyt-1110-02	20	unnamed	government_handling	A U.S. government official	A U.S. government official, who spoke on the condition of anonymity because they were not authorized to discuss the matter publicly, confirmed	who spoke on the condition of anonymity because they were not authorized to discuss the matter publicly
+man-nyt-1110-02#21	man-nyt-1110-02	21	unnamed	government_handling	the people with knowledge of the events	the people with knowledge of the events said.	
+man-nyt-1110-02#22	man-nyt-1110-02	22	unnamed	government_handling	the official	the official said.	
+man-nyt-1110-02#23	man-nyt-1110-02	23	institution	government_handling	The State Department	The State Department declined to comment.	
+man-nyt-1110-02#24	man-nyt-1110-02	24	institution	government_handling	the White House press office	Asked to comment, the White House press office declined to do so on the record.	
+man-nyt-1110-02#25	man-nyt-1110-02	25	institution	government_handling	the office	Instead, the office emailed a statement on background that pointed to Mr. Trump’s remarks from Monday.	
+man-nyt-1110-02#26	man-nyt-1110-02	26	document	government_handling	The email	The email disputed the reporting for this article, without elaborating.	
+man-nyt-1110-02#27	man-nyt-1110-02	27	own_observation	intelligence_and_relationship	The Times	After The Times reported last month that U.S. officials had determined that Ms. Huang was a Chinese intelligence asset	
+man-nyt-1110-02#28	man-nyt-1110-02	28	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials had determined that Ms. Huang was a Chinese intelligence asset and that she was in a relationship with Mr. Huang	
+man-nyt-1110-02#29	man-nyt-1110-02	29	institution	intelligence_and_relationship	Nvidia executives	Nvidia executives and Mr. Huang both insisted that the relationship was a routine engagement with a customer.	
+man-nyt-1110-02#30	man-nyt-1110-02	30	named_person	intelligence_and_relationship	Mr. Huang	Nvidia executives and Mr. Huang both insisted that the relationship was a routine engagement with a customer.	
+man-nyt-1110-02#31	man-nyt-1110-02	31	named_person	intelligence_and_relationship	Mr. Huang	On Sunday, Mr. Huang admitted to a romantic relationship with Ms. Huang.	
+man-nyt-1110-02#32	man-nyt-1110-02	32	institution	company	Nvidia	Soon after, Nvidia announced that the company would conduct an independent investigation.	
+man-nyt-1110-02#33	man-nyt-1110-02	33	unnamed	government_handling	His defenders	His defenders have often noted that he has publicly said the U.S. must lead China in the A.I. race.	
+man-nyt-1110-02#34	man-nyt-1110-02	34	named_person	government_handling	he	he has publicly said the U.S. must lead China in the A.I. race.	
+man-nyt-1110-02#35	man-nyt-1110-02	35	named_person	government_handling	Mr. Huang	Earlier this year, at an investor conference, Mr. Huang reiterated that China should not be able to access Nvidia’s top-tier products	
+man-nyt-1110-02#36	man-nyt-1110-02	36	named_person	government_handling	he	But, he added, “Simultaneously, all American companies should compete globally.”	
+man-nyt-1111-02#1	man-nyt-1111-02	1	named_person	government_handling	Treasury Secretary Scott Bessent	Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week over his handling of a Singaporean company at the heart of revelations about Chinese spying on Nvidia, demanding to know	
+man-nyt-1111-02#2	man-nyt-1111-02	2	unnamed	government_handling	people briefed on it	was described by people briefed on it	
+man-nyt-1111-02#3	man-nyt-1111-02	3	named_person	intelligence_and_relationship	Jensen Huang, Nvidia’s chief executive	Jensen Huang, Nvidia’s chief executive, acknowledged he had an affair with a woman who had helped lead the Singaporean data center company, Megaspeed.	
+man-nyt-1111-02#4	man-nyt-1111-02	4	institution	intelligence_and_relationship	U.S. intelligence	The woman, Alice Huang, a Chinese citizen, has been identified by U.S. intelligence as a spy for China’s Ministry of State Security	
+man-nyt-1111-02#5	man-nyt-1111-02	5	own_observation	intelligence_and_relationship	The New York Times	The New York Times has reported.	
+man-nyt-1111-02#6	man-nyt-1111-02	6	named_person	government_handling	Mr. Lutnick	Mr. Lutnick responded to Mr. Bessent that the Commerce Department could now move quickly to put restrictions on Megaspeed in place	
+man-nyt-1111-02#7	man-nyt-1111-02	7	unnamed	government_handling	the people briefed on the exchange	said the people briefed on the exchange, who spoke on condition of anonymity because the discussions were private.	who spoke on condition of anonymity because the discussions were private
+man-nyt-1111-02#8	man-nyt-1111-02	8	institution	government_handling	A spokeswoman for the Commerce Department	A spokeswoman for the Commerce Department denied that the conversation between Mr. Bessent and Mr. Lutnick had taken place.	
+man-nyt-1111-02#9	man-nyt-1111-02	9	institution	government_handling	She	She said that the decision about whether to add companies to the entity list was an administration-wide one.	
+man-nyt-1111-02#10	man-nyt-1111-02	10	institution	government_handling	The Treasury Department	The Treasury Department did not provide a comment.	
+man-nyt-1111-02#11	man-nyt-1111-02	11	institution	intelligence_and_relationship	Megaspeed	a charge that Megaspeed has denied.	
+man-nyt-1111-02#12	man-nyt-1111-02	12	named_person	government_handling	Jeffrey Kessler, an under secretary in the Commerce Department	Jeffrey Kessler, an under secretary in the Commerce Department, deferred on taking action, saying that the decision was up to Mr. Lutnick.	
+man-nyt-1111-02#13	man-nyt-1111-02	13	other_outlet	government_handling	Axios	The confrontation between Mr. Bessent and Mr. Lutnick was reported earlier by Axios.	
+man-nyt-1111-02#14	man-nyt-1111-02	14	unnamed	government_handling	many Trump officials	many Trump officials have argued that Megaspeed should be added.	
+man-nyt-1111-02#15	man-nyt-1111-02	15	unnamed	government_handling	officials at several agencies who oversee technology licensing	officials at several agencies who oversee technology licensing agreed that Megaspeed should be put on the list, including the State Department.	
+man-nyt-1111-02#16	man-nyt-1111-02	16	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials were concerned that some of the Nvidia chips the company had bought were illegally routed to China.	
+man-nyt-1112-07#1	man-nyt-1112-07	1	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials had identified as a Chinese spy.	
+man-nyt-1112-07#2	man-nyt-1112-07	2	institution	company	The board	The board said on Thursday that it would begin a search for a permanent replacement and would consider internal and external candidates.	
+man-nyt-1112-07#3	man-nyt-1112-07	3	named_person	company	Mr. Jones	In a statement, Mr. Jones said that the board was confident in Ms. Kress and the executive team	
+man-nyt-1112-07#4	man-nyt-1112-07	4	named_person	government_handling	He	He has defended Mr. Huang over the past week, saying he was an “honorable man” who did not know the woman was a Chinese agent.	
+man-nyt-1112-07#5	man-nyt-1112-07	5	named_person	company	Patrick Moorhead, the founder of Moor Insights & Strategy	“Jensen is very much the command and control,” said Patrick Moorhead, the founder of Moor Insights & Strategy, a technology research firm.	
+man-nyt-1112-07#6	man-nyt-1112-07	6	own_observation	intelligence_and_relationship	The New York Times	The New York Times first reported last month that American intelligence agencies had discovered	
+man-nyt-1112-07#7	man-nyt-1112-07	7	institution	intelligence_and_relationship	American intelligence agencies	American intelligence agencies had discovered that he had developed a close relationship with a Chinese citizen and chip buyer	
+man-nyt-1112-07#8	man-nyt-1112-07	8	unnamed	intelligence_and_relationship	U.S. officials	U.S. officials concluded was gathering intelligence for Beijing.	
+man-nyt-1112-07#9	man-nyt-1112-07	9	document	background	whose biography	whose biography said she worked in China as a TV reporter	
+man-nyt-1112-07#10	man-nyt-1112-07	10	institution	intelligence_and_relationship	China	China has denied the espionage claims.	
+man-nyt-1112-07#11	man-nyt-1112-07	11	named_person	intelligence_and_relationship	Ms. Huang	Ms. Huang has not responded to requests for	
+man-nyt-1112-07#12	man-nyt-1112-07	12	other_outlet	intelligence_and_relationship	The Financial Times	The Financial Times reported last week that Mr. Huang’s relationship with Ms. Huang was romantic	
+man-nyt-1112-07#13	man-nyt-1112-07	13	institution	company	Nvidia’s board	Nvidia’s board said on Sunday that it was opening an investigation into his conduct.	
+man-nyt-1112-07#14	man-nyt-1112-07	14	named_person	intelligence_and_relationship	Mr. Huang	That same day, Mr. Huang admitted that he had been unfaithful to his wife, Lori Huang	
+man-nyt-1112-07#15	man-nyt-1112-07	15	named_person	company	He	He said he was “proud and grateful to be an American”	
+man-nyt-1112-07#16	man-nyt-1112-07	16	named_person	intelligence_and_relationship	He	He said he was “proud and grateful to be an American” and apologized for his behavior.	
+man-nyt-1112-07#17	man-nyt-1112-07	17	named_person	intelligence_and_relationship	he	“My family bears no responsibility for my choices — I do,” he said in a message to Nvidia employees.	
+man-nyt-1112-07#18	man-nyt-1112-07	18	own_observation	intelligence_and_relationship	The Times	On Wednesday, The Times reported that Mr. Huang also had an extramarital relationship with Kimberly Powell, an Nvidia vice president who reports to him.	
+man-nyt-1112-07#19	man-nyt-1112-07	19	document	company	Nvidia’s code of conduct	Under Nvidia’s code of conduct, employees are told to “avoid situations where our actions create conflict” including “personal relationships,”	
+man-nyt-1112-07#20	man-nyt-1112-07	20	institution	company	the company	the company says that it “promptly investigates reports of misconduct.”	
+man-nyt-1112-07#21	man-nyt-1112-07	21	document	intelligence_and_relationship	video	Mr. Huang and Ms. Powell, 48, were captured on video being affectionate at a San Jose, Calif., hotel during an Nvidia conference in March.	
+man-nyt-1112-07#22	man-nyt-1112-07	22	named_person	intelligence_and_relationship	Ms. Powell	Ms. Powell, who is married, has not responded to requests for comment.	
+man-nyt-1112-07#23	man-nyt-1112-07	23	named_person	company	she	In a note to employees on Thursday, she said she believed “deeply in this company” and each of its employees.	
+man-nyt-1112-07#24	man-nyt-1112-07	24	named_person	company	Ms. Kress	“This company has achieved so much because of the work that all of you bring to it every single day,” Ms. Kress said.	
+man-nyt-1112-07#25	man-nyt-1112-07	25	named_person	company	She	She added that there would be a company meeting on Wednesday to discuss its future.	
